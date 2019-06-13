@@ -14,3 +14,6 @@ Hints:
 - Please be careful how often you render the markers on the map
 - Design does not matter and will not be rated but basic styling should be done.
 - Add a autorefresh every 30 seconds to get new vehicle data.
+
+
+Please create a git repository and either share a link or zip file containing the solution.
